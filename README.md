@@ -44,10 +44,19 @@ Next, confirm that the packages are installed by using the following code lines:
 
 In order to view the project, navigate to the `san_francisco_housing.ipynb` notebook in the repository directory. If you cannot find the file, simply click [here](https://github.com/MaxAcheson/Module_6_Challenge/blob/main/Starter_Code/san_francisco_housing.ipynb) instead. If you would like to interact with the live version of the analysis, you may navigate to your cloned version of the repository in your terminal and run `jupyter lab`.
 
-Since Holoviews figures do not render live on GitHub, the figures from the analysis have been provided below, along with their corisponding notebook cell.
+Since Holoviews figures do not render live on GitHub, the figures from the analysis have been provided below, along with their corresponding notebook cell.
 
-Cell 14:
+[Cell 14 Out]:
 ![Housing Units in SF Neighborhoods](https://github.com/MaxAcheson/Module_6_Challenge/blob/main/Module%206%20Images/Housing.Units.SF.Neighborhoods.png)
+
+[Cell 17 Out]:
+![San Francisco Housing Sale Price per ft² & Gross Rent by Year](https://github.com/MaxAcheson/Module_6_Challenge/blob/main/Module%206%20Images/San.Francisco.Housing.SP.GR.png)
+
+[Cell 20 Out]:
+![Neighborhood Selection Figure](https://github.com/MaxAcheson/Module_6_Challenge/blob/main/Module%206%20Images/neighborhood.gross.rent.sale.price.png)
+
+[Cell 25 Out]:
+![Point Plot San Fran](https://github.com/MaxAcheson/Module_6_Challenge/blob/main/Module%206%20Images/Point.Plot.png)
 
 ## Contributors
 
